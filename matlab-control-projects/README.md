@@ -1,4 +1,5 @@
 # MATLAB Control & Dynamics Portfolio
+This repository contains MATLAB control-system projects in total 4 projects.
 
 Four beginner-friendly control and dynamics projects written in MATLAB. Each project contains a mathematical model, open-loop analysis, a feedback controller, performance metrics, and plots that can be used in a GitHub portfolio or short university presentation.
 
